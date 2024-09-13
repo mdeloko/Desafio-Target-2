@@ -1,0 +1,20 @@
+{
+  "name": "desafio-target-2",
+  "version": "1.0.0",
+  "description": "Desafio Técnico da vaga de Estágio em Desenvolvimento - Ribeirão Preto da Target Sistemas",
+  "main": "./Desafio 1/index.js",
+  "scripts": {
+    "desafio1":"node ./\"Desafio 1\"/index.js",
+    "desafio2":"node ./\"Desafio 2\"/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdeloko/Desafio-Target-2.git"
+  },
+  "author": "Erik G. Coutinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdeloko/Desafio-Target-2/issues"
+  },
+  "homepage": "https://github.com/mdeloko/Desafio-Target-2#readme"
+}
